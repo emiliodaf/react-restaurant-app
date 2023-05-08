@@ -2,6 +2,7 @@
 Following the same concept of the previous project we have coded a React Restaurant application where we have used "use state" hook with react-reveal in order to add some animation effects into the cards project
 
 
+![react-rest-ezgif com-gif-maker](https://user-images.githubusercontent.com/85713266/236932403-28e52dd1-a661-4427-9e87-e8c858db9c4d.gif)
 
 
 
